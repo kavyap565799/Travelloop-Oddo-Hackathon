@@ -71,9 +71,9 @@ npm run dev
 
 | Username | Password | Role |
 |----------|----------|------|
-| krish_admin | Password1 | ADMIN |
-| aksh_traveler | Password1 | USER |
-| dixit_explorer | Password1 | USER |
+| Kavya Admin | Password1 | ADMIN |
+| Shreya  | Password1 | USER |
+
 
 ## Project Structure
 
