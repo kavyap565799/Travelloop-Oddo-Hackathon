@@ -6,9 +6,8 @@ A full-stack travel planning application built with Next.js 14, Express, Postgre
 
 | Name | Role | Screens |
 |------|------|---------|
-| **Krish Kumar Gupta** | Backend & Database | DB Schema, API, Seed Data |
-| **Aksh Narwani** | Frontend Core | Screens 1-6, 8 |
-| **Dixit Malviya** | Frontend Advanced | Screens 7, 9-14 |
+| **Shreya** | Backend & Database | DB Schema, API, Seed Data |
+| *KAVYA PATEL** | Frontend Core | Screens 1-7, 9-14 |
 
 ## Tech Stack
 
